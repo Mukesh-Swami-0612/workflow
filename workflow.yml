@@ -1,1 +1,4 @@
 
+steps:
+  - name: Lint code
+    run: npm run lint
